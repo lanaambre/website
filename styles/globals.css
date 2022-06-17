@@ -1,0 +1,11 @@
+/* Globals css */
+
+body {
+  background: var(--background-primary);
+  color: var(--text-primary);
+
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+
+  text-align: center;
+}

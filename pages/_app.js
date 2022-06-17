@@ -1,0 +1,9 @@
+import "../styles/reset.css";
+import "../styles/root.css";
+import "../styles/globals.css";
+
+function MyApp({ Component, pageProps }) {
+  return <Component {...pageProps} />;
+}
+
+export default MyApp;
