@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="canonical" href="https://lanaambre.fr" />
         <meta
           name="description"
-          content="Lana-Ambre Demailly est une développeuse front-end spécialisée en Vue.js, Nuxt.js, SEO."
+          content="Lana-Ambre Demailly est une développeuse front-end spécialisée en Vue.js, React.js, SEO."
         />
       </Head>
       <h1>Lana-Ambre Demailly</h1>
